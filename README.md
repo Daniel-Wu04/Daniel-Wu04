@@ -1,29 +1,23 @@
-Hello there... my name is Daniel Wu. My pronouns are He/Him.
+Hello there! My name is Daniel Wu. My pronouns are He/Him.
 
-I am currently a student at Rutgers University Honors College, New Brunswick. 
-Currently pursuing a B.A. in Computer Science and B.S. in Data science. I am planning on graduating by December 2025 as well.
-As a student I am continuosly learning in my classes, but as well as through my own endeavors. 
-I am a curiuos indivual who wants to understand how different systems and processes work. 
+I am currently a student at the Rutgers University Honors College, New Brunswick, pursuing a B.A. in Computer Science and a B.S. in Data Science. I am planning to graduate by December 2025. As a student, I am continuously learning through my classes as well as my own endeavors. I am a curious individual who wants to understand how different systems and processes work.
 
-Currently working on acquiring new certificates to show case my knowledge. 
+I am currently working on acquiring new certificates to showcase my knowledge.
 
-Contacts
+Contact:
 Email: 2022wuda@gmail.com
 
-Interests:
-Not everything is always about computers and tech! I enjoy working out at the gym and meeting new people there. 
-I am also into cars and motorcycles as well as doing my own work maitaining my vehicles. Currently Riding a Yamaha R7.
-I also snowboard during the winter and always willing to send a double black diamond. One might call me an Adrenaline Junkie
+Interests: Not everything is always about computers and tech! I enjoy working out at the gym and meeting new people there. I am also into cars and motorcycles, as well as maintaining my vehicles. Currently, I'm riding a Yamaha R7. I also snowboard during the winter and am always willing to tackle a double black diamond. Some might call me an adrenaline junkie.
 
-Favourite Quote: 
+Favorite Quote:
 
-"Jack of all trades, master of none, though oftentimes better than master of one"
+"Jack of all trades, master of none, though oftentimes better than master of one."
 
-This is a quote I tend to relate to. My skill set is diverse where I like to fill in the gaps in a team and support where ever is required the most. 
-One person can only do so much compared to a cohesive and fluid team in any field. 
+This is a quote I tend to relate to. My skill set is diverse; I like to fill in the gaps in a team and support wherever it is needed most. One person can only do so much compared to a cohesive and fluid team in any field.
+
+
 
 
 <!---
-Daniel-Wu04/Daniel-Wu04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Daniel-Wu04/Daniel-Wu04 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
