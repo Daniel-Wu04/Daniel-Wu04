@@ -1,6 +1,6 @@
 Hello there! My name is Daniel Wu. My pronouns are He/Him.
 
-I am currently a student at the Rutgers University Honors College, New Brunswick, pursuing a B.A. in Computer Science and a B.S. in Data Science. I am planning to graduate by December 2025. As a student, I am continuously learning through my classes as well as my own endeavors. I am a curious individual who wants to understand how different systems and processes work.
+I am currently a student at the Rutgers University Honors College, New Brunswick, pursuing a B.A. in Computer Science and a B.S. in Data Science. I am planning to graduate by May 2026. As a student, I am continuously learning through my classes as well as my own endeavors. I am a curious individual who wants to understand how different systems and processes work.
 
 I am currently working on acquiring new certificates to showcase my knowledge.
 
